@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Manager</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Registrar</string>
+    <string name="lbl_home">Realize o login ou registre-se</string>
+    <string name="lbl_copyright">©2018 Desenvolvido por Rafael Neres Lima</string>
+    <string name="lbl_regtxt">Preencha todos os campos para se cadastrar.</string>
+    <string name="btn_regsubmit">Cadastrar</string>
+    <string name="btn_logsubmit">Entrar</string>
+    <string name="lbl_logintxt">Autenticação do usuário.</string>
+</resources>
